@@ -1,7 +1,7 @@
 # ClampText.js
 Класс `Clamp` предназначен для обрезки текста внутри элемента до определенного числа строк.
 
-[Пример использования](https://ruden2007.github.io/ClampText.js/)
+[Пример использования](https://ruden2007.github.io/ClampText.js/index.html)
 
 ## Установка
 
